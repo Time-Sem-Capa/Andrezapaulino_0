@@ -20,22 +20,25 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# "A Importância dos Processos em Governança de Dados"
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Este projeto visa destacar a relevância dos processos estruturados na governança de dados, mostrando como eles garantem a segurança e a eficácia do uso de dados nas empresas. A obra é projetada para gestores que desejam melhorar a gestão de dados e entender como aplicar práticas eficientes e seguras.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+•	ChatGPT;
+•	Leonardo.AI;
+•	Gamma.
+
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Para desenvolver o conteúdo, iniciei com uma pesquisa focada nas melhores práticas de governança de dados, organizando a informação em tópicos claros e objetivos. Utilizei a IA Leonardo.AI para criar imagens que traduzissem visualmente os conceitos explorados em cada seção do ebook. A revisão final foi feita para garantir a clareza e o impacto da mensagem.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+O ebook apresenta uma visão prática e concisa dos processos essenciais de governança de dados, com imagens que facilitam a compreensão e engajamento. Ele oferece soluções imediatas para melhorar a governança de dados nas organizações.
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+Criar algo com IA foi uma experiência enriquecedora. A combinação da IA para a escrita e as imagens visualmente impactantes permitiu a criação de um conteúdo cativante e de fácil assimilação, enquanto o desafio foi garantir que a profundidade do conteúdo fosse mantida de forma acessível.
 ```
 
 ### Exemplos e Insigths
